@@ -1,0 +1,5 @@
+NOTE by Giulio Montanaro 26/11/2025
+
+The genieri_final.ttl file produced at the end of the logical validation of the description
+has not been included due to its excessive size.
+It can be requested to Giulio Montanaro at giuliomontanaro98@gmail.com
